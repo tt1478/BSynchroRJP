@@ -1,0 +1,10 @@
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\Antoine\source\repos\BSynchroRJP\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

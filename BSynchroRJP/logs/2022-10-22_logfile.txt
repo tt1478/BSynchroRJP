@@ -1,0 +1,4 @@
+2022-10-22 15:01:59.2930 ERROR Invalid model state for the object. Controller: AccountStatuses, action: UpdateAccountStatus
+2022-10-22 15:02:40.3764 INFO Account status with id: f01b45bf-2aa4-437c-d2e3-08dab41aeb9e doesn't exist in the database.
+2022-10-22 22:21:04.6594 ERROR Invalid model state for the object. Controller: Authentication, action: RegisterUser
+2022-10-22 22:42:20.3866 ERROR Invalid model state for the object. Controller: Authentication, action: RegisterUser
